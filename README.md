@@ -1,2 +1,2 @@
 # Filmy-India
-It contains all filmy scripts Tollywood || Mollywood || Bollywood || Kollywood || Sandalwood
+This dataset contains all filmy scripts related to Indian Film Industries i.e Tollywood || Mollywood || Bollywood || Kollywood || Sandalwood
